@@ -1,0 +1,4 @@
+C:\Users\ggsmo\workspace\csharp\DogWalking2\TheDogWalkingApp2\TheDogWalkingApp2\bin\Debug\netcoreapp3.1\TheDogWalkingApp2.exe
+C:\Users\ggsmo\workspace\csharp\DogWalking2\TheDogWalkingApp2\TheDogWalkingApp2\obj\Debug\netcoreapp3.1\TheDogWalkingApp2.csprojAssemblyReference.cache
+C:\Users\ggsmo\workspace\csharp\DogWalking2\TheDogWalkingApp2\TheDogWalkingApp2\obj\Debug\netcoreapp3.1\TheDogWalkingApp2.AssemblyInfoInputs.cache
+C:\Users\ggsmo\workspace\csharp\DogWalking2\TheDogWalkingApp2\TheDogWalkingApp2\obj\Debug\netcoreapp3.1\TheDogWalkingApp2.AssemblyInfo.cs
